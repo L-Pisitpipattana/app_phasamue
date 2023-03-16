@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469913225378",
+    "firebase_url": "https://phasamue-b51ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "phasamue-b51ba",
+    "storage_bucket": "phasamue-b51ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469913225378:android:4caa7fa9b4e0590b082ffb",
+        "android_client_info": {
+          "package_name": "com.example.app_phasamue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469913225378-vsi105qb0rvobl44eape1uvtrksfmitu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaC-AXKLSIO50W6bfjTNINcytDB4dmtMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469913225378-vsi105qb0rvobl44eape1uvtrksfmitu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
